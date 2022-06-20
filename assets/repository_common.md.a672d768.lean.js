@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as t,a as r}from"./app.cc132473.js";const f='{"title":"\u5E38\u7528\u5E93","description":"","frontmatter":{},"headers":[],"relativePath":"repository/common.md","lastUpdated":1654264870000}',a={name:"repository/common.md"},n=r("",2),s=[n];function c(d,_,i,l,h,m){return t(),o("div",null,s)}var u=e(a,[["render",c]]);export{f as __pageData,u as default};
