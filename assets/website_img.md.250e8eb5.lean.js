@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as a,a as t}from"./app.790ae75a.js";const m='{"title":"\u56FE\u7247\u76F8\u5173","description":"","frontmatter":{},"headers":[],"relativePath":"website/img.md","lastUpdated":1654775440000}',o={name:"website/img.md"},n=t("",2),s=[n];function i(l,_,p,h,c,d){return a(),r("div",null,s)}var u=e(o,[["render",i]]);export{m as __pageData,u as default};
