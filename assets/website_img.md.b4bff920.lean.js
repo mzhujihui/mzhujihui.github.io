@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as a,a as t}from"./app.95cd0dab.js";const m=JSON.parse('{"title":"\u56FE\u7247\u76F8\u5173","description":"","frontmatter":{},"headers":[],"relativePath":"website/img.md","lastUpdated":1658828119000}'),o={name:"website/img.md"},n=t("",2),s=[n];function i(l,p,_,h,c,d){return a(),r("div",null,s)}var u=e(o,[["render",i]]);export{m as __pageData,u as default};
