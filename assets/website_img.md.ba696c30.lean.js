@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,a}from"./app.9dc064fb.js";const m=JSON.parse('{"title":"图片相关","description":"","frontmatter":{},"headers":[],"relativePath":"website/img.md","lastUpdated":1676019556000}'),o={name:"website/img.md"},n=a("",2),s=[n];function i(l,_,c,h,p,d){return t(),r("div",null,s)}const u=e(o,[["render",i]]);export{m as __pageData,u as default};
